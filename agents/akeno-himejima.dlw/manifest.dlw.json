@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Akeno Himejima",
+  "universe": "DXD · Akeno Himejima (entertainment)",
+  "emergence": "ethereal",
+  "moniker": "⟦Akeno Himejima:DXD:4f5957⟧",
+  "carbon": "akeno-himejima.carbon.tiff (TIFF)",
+  "silicon": "akeno-himejima.silicon.png (PNG)",
+  "seal_sha256": "a5f66459f2298051fedbaab1a83473eef038efe6c23754d3a89e99e279dcaa21",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

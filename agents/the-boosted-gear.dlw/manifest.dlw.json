@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Boosted Gear",
+  "universe": "DXD · The Boosted Gear (entertainment)",
+  "emergence": "electrical",
+  "moniker": "⟦The Boosted Gear:DXD:2fc515⟧",
+  "carbon": "the-boosted-gear.carbon.tiff (TIFF)",
+  "silicon": "the-boosted-gear.silicon.png (PNG)",
+  "seal_sha256": "f47e9766a302d1b5b2f71ef149edf27b70fb235501dca3d96493d84f51176bae",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

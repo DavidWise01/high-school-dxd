@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Vali Lucifer",
+  "universe": "DXD · Vali Lucifer (entertainment)",
+  "emergence": "ethereal",
+  "moniker": "⟦Vali Lucifer:DXD:ea0ea8⟧",
+  "carbon": "vali-lucifer.carbon.tiff (TIFF)",
+  "silicon": "vali-lucifer.silicon.png (PNG)",
+  "seal_sha256": "68f0fe585af91469b96e8edb4f3a579a161ac3b71fe8d297065764c419a7cc4a",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Asia Argento",
+  "universe": "DXD · Asia Argento (entertainment)",
+  "emergence": "spiritual",
+  "moniker": "⟦Asia Argento:DXD:4694d6⟧",
+  "carbon": "asia-argento.carbon.tiff (TIFF)",
+  "silicon": "asia-argento.silicon.png (PNG)",
+  "seal_sha256": "3c8e81c28ad5131f6b1406a2db23290e9d72c9442aa843a749bf8d97d9fa8b9a",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

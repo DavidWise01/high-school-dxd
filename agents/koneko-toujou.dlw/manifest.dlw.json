@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Koneko Toujou",
+  "universe": "DXD · Koneko Toujou (entertainment)",
+  "emergence": "natural",
+  "moniker": "⟦Koneko Toujou:DXD:e00947⟧",
+  "carbon": "koneko-toujou.carbon.tiff (TIFF)",
+  "silicon": "koneko-toujou.silicon.png (PNG)",
+  "seal_sha256": "d973fc67d5792ad82e4b54f12e4f9cdf79b04f95ef84d97de4b74f675c68756d",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

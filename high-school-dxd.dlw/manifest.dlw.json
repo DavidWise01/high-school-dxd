@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "HIGH SCHOOL DXD",
+  "universe": "DXD · HIGH SCHOOL DXD (entertainment · anime-world)",
+  "emergence": "",
+  "moniker": "⟦HIGH SCHOOL DXD:DXD:63c8b8⟧",
+  "carbon": "high-school-dxd.carbon.tiff (TIFF)",
+  "silicon": "high-school-dxd.silicon.png (PNG)",
+  "seal_sha256": "8a4f584aaf7e77a688eea685ba77fa344de049f4b80d7b253f7e7a8481ae3dc3",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

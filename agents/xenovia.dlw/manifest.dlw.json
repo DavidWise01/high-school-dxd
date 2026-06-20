@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Xenovia Quarta",
+  "universe": "DXD · Xenovia Quarta (entertainment)",
+  "emergence": "natural",
+  "moniker": "⟦Xenovia Quarta:DXD:093420⟧",
+  "carbon": "xenovia.carbon.tiff (TIFF)",
+  "silicon": "xenovia.silicon.png (PNG)",
+  "seal_sha256": "1f98d8b02207c020d2c4e8da92f8f5da421fca089f0d95e0ae45e6be75a21133",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Rating Game",
+  "universe": "DXD · The Rating Game (entertainment)",
+  "emergence": "electrical",
+  "moniker": "⟦The Rating Game:DXD:dc60da⟧",
+  "carbon": "the-rating-game.carbon.tiff (TIFF)",
+  "silicon": "the-rating-game.silicon.png (PNG)",
+  "seal_sha256": "e286d3a1eb18f6d36bc0fd155af3bef30431650dd2ac43492aeb4ec2132b4a94",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

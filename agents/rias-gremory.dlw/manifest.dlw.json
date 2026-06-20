@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Rias Gremory",
+  "universe": "DXD · Rias Gremory (entertainment)",
+  "emergence": "spiritual",
+  "moniker": "⟦Rias Gremory:DXD:30932f⟧",
+  "carbon": "rias-gremory.carbon.tiff (TIFF)",
+  "silicon": "rias-gremory.silicon.png (PNG)",
+  "seal_sha256": "328c7f6ed811f6c1e357e3cb149f6f0da437c6f879e00cf126bc1c3a0ff0e010",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

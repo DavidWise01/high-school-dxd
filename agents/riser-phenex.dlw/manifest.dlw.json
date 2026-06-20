@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Riser Phenex",
+  "universe": "DXD · Riser Phenex (entertainment)",
+  "emergence": "ethereal",
+  "moniker": "⟦Riser Phenex:DXD:948c87⟧",
+  "carbon": "riser-phenex.carbon.tiff (TIFF)",
+  "silicon": "riser-phenex.silicon.png (PNG)",
+  "seal_sha256": "a94fad83b51007301a2dec7cf9fd5cfd7ec27d385376d31a0a265b8e67dd9c00",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Two Heavenly Dragons",
+  "universe": "DXD · The Two Heavenly Dragons (entertainment)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Two Heavenly Dragons:DXD:a5e282⟧",
+  "carbon": "the-two-heavenly-dragons.carbon.tiff (TIFF)",
+  "silicon": "the-two-heavenly-dragons.silicon.png (PNG)",
+  "seal_sha256": "667191bcfec24638a1674f57ec9a460b54b0216fadfa9631ec71c9c9e96fdb0b",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

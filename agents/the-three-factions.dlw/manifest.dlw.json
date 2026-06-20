@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Three Factions",
+  "universe": "DXD · The Three Factions (entertainment)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Three Factions:DXD:1d715d⟧",
+  "carbon": "the-three-factions.carbon.tiff (TIFF)",
+  "silicon": "the-three-factions.silicon.png (PNG)",
+  "seal_sha256": "92e450eff8b61428a1a8d7e1e8ef1440429f38a4a1b692f1391376b602ec62c8",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

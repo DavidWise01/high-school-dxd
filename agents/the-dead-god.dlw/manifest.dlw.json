@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Dead God",
+  "universe": "DXD · The Dead God (entertainment)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Dead God:DXD:fad240⟧",
+  "carbon": "the-dead-god.carbon.tiff (TIFF)",
+  "silicon": "the-dead-god.silicon.png (PNG)",
+  "seal_sha256": "ec44465f69ada0835f22d4479d83e1e041a65b739884c29036cba2695a6cb598",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

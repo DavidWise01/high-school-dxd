@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Peerage as Family",
+  "universe": "DXD · The Peerage as Family (entertainment)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Peerage as Family:DXD:913f36⟧",
+  "carbon": "the-peerage-as-family.carbon.tiff (TIFF)",
+  "silicon": "the-peerage-as-family.silicon.png (PNG)",
+  "seal_sha256": "0c26750287cdfb631a9424743bd36853788e9e01f09ada7c793a9243386020d8",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
